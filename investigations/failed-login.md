@@ -31,3 +31,10 @@ Because this was a controlled test, no remediation was necessary. In a real envi
 
 ## Conclusion
 This exercise demonstrated a basic SOC workflow: generate an event, review the SIEM alert, investigate the details, and document the outcome.
+
+
+<img width="1920" height="1080" alt="failed login details" src="https://github.com/user-attachments/assets/7f5f8088-3b51-45b6-a8fb-9e8a1986b22d" />
+
+
+<img width="1920" height="1080" alt="LOGON FAILURE" src="https://github.com/user-attachments/assets/85c05ff6-10a7-4da7-a53e-bb78345bbda2" />
+
